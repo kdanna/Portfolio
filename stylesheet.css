@@ -1,9 +1,0 @@
-.project_container {
-	height: 600px;
-}
-
-.project_container  .img-responsive {
-    display: block;
-    width: auto;
-    max-height: 100%;
-}
